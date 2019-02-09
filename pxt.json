@@ -5,6 +5,7 @@
     "dependencies": {
         "core": "*",
         "radio": "*"
+        "ESP8266_IoT": "github:elecfreaks/pxt-esp8266iot"
     },
     "files": [
         "README.md",
